@@ -1,0 +1,4 @@
+[wrap-git]
+directory = nanogui-0.1.0
+url = https://github.com/meson-library/nanogui.git
+revision = v0.1.0
