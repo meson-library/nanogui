@@ -1,0 +1,4 @@
+[wrap-git]
+directory = bin2c
+url = https://github.com/meson-library/bin2c.git
+revision = v1.0.0
