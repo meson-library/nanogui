@@ -1,4 +1,0 @@
-option('build_examples',
-        description : 'Build NanoGUI example applications.',
-        type        : 'boolean',
-        value       : false)
